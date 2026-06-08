@@ -1,4 +1,4 @@
-# 🤖 Astra — AI Chatbot powered by Groq
+# 🤖 Gopal — AI Chatbot powered by Groq
 
 A conversational AI chatbot built with Python and Groq API.  
 Supports multi-turn conversations with full context memory across the session.  
@@ -45,13 +45,13 @@ python chatbot.py
 
 ```
 ══════════════════════════════════════════════════
-   🤖  Astra — AI Chatbot powered by Groq
+   🤖  Gopal — AI Chatbot powered by Groq
    Type 'exit' or 'quit' to end the session.
 ══════════════════════════════════════════════════
 
 You: Hello! Who are you?
 
-Astra: Hi there! I'm Astra, your friendly AI assistant powered by Groq
+Astra: Hi there! I'm Gopal, your friendly AI assistant powered by Groq
        and Llama 3.3 70B. I'm here to help you with anything you need!
 
 You: What can you do?
