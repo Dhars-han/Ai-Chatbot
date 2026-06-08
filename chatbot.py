@@ -1,9 +1,9 @@
 from groq import Groq
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-API_KEY  = "YOUR_GROQ_API_KEY_HERE"    # 🔑 Paste your gsk_... key here
-BOT_NAME = "Astra"
-SYSTEM_PROMPT = """You are Astra, a helpful and friendly AI assistant.
+API_KEY  = "YOUR_GROQ_API_KEY_HERE"    #  Paste your gsk_... key here
+BOT_NAME = "Gopal"
+SYSTEM_PROMPT = """You are Gopal, a helpful and friendly AI assistant.
 You answer clearly, concisely, and in a conversational tone.
 If you don't know something, admit it honestly."""
 # ──────────────────────────────────────────────────────────────────────────────
